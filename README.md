@@ -1,2 +1,2 @@
 # Master Research
-Exp011:ネットワークのうち一定数のweightを固定
+exp011:ネットワークのうち一定数のweightを固定
